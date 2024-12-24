@@ -7,4 +7,6 @@
 3. 启动视频画面
 4. 到相机显示窗口，主要分为左右俩栏，分别包含相机显示画面，检测结果显示和告警检测
 
+![image]https://github.com/BarryLoveBerry/qt_with_yolo/blob/main/qt_interface
+
    
